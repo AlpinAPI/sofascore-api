@@ -1,3 +1,5 @@
+// sofascore.com-api
+
 const url = 'https://os-sports-perform.p.rapidapi.com/v1/events/schedule/category?category_id=26&date=2022-05-11';
 const options = {
 	method: 'GET',
