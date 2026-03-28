@@ -16,6 +16,7 @@ You get data similar to: (Opta sports) statsperform.com , sofascore.com, aiscore
 ---
 
 
+
 **This api is free?**
 Yes. But there are limits on requests per month.
 
